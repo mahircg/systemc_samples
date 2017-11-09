@@ -1,2 +1,2 @@
 # systemc_samples
-Simple component designs using SystemC,SystemC AMS and TLM
+This project includes reference component/testbench designs developed using SystemC, SystemC AMS, and SystemC TLM.
